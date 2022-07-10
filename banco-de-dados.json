@@ -1,0 +1,424 @@
+{
+  "produtos": [
+    {
+      "tipo": "maisVendidos",
+      "id": 0,
+      "nome": "Ração GranPlus para cães adultos",
+      "img": "assets/img/caes-1.png",
+      "preco": 139.90
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 1,
+      "nome": "Osso PetTreats Orelha Bovina",
+      "img": "../assets/img/caes-2.png",
+      "preco": 5.99
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 2,
+      "nome": "Ração Úmida GranPlus Gourmet",
+      "img": "../assets/img/caes-3.png",
+      "preco": 2.99
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 3,
+      "nome": "Brinquedo Mordedor Corda Dental Plástica",
+      "img": "../assets/img/caes-4.png",
+      "preco": 29.99
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 4,
+      "nome": "Ração Nestlé Purina Friskies Sachê",
+      "img": "../assets/img/gatos-1.png",
+      "preco": 2.79
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 5,
+      "nome": "Catnip Chalesco Erva de Gato - 10 g",
+      "img": "../assets/img/gatos-2.png",
+      "preco": 19.95
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 6,
+      "nome": "Ração Seca PremieR Golden Gatos Adultos",
+      "img": "../assets/img/gatos-3.png",
+      "preco": 131.31
+    },
+    {
+      "tipo": "maisVendidos",
+      "id": 7,
+      "nome": "Casaco Jingles Moletom Salmão",
+      "img": "../assets/img/gatos-5.png",
+      "preco": 92.99
+    },
+    {
+      "tipo": "gatos-amam",
+      "id": 8,
+      "nome": "Petisco Whiskas Antibola de Pelo",
+      "img": "../assets/img/gatos-2-1.png",
+      "preco": 9.62
+    },
+    {
+      "tipo": "gatos-amam",
+      "id": 9,
+      "nome": "Comedouro CatMyPet Snack Cat Vermelho",
+      "img": "../assets/img/gatos-2-2.png",
+      "preco": 116.99
+    },
+    {
+      "tipo": "gatos-amam",
+      "id": 10,
+      "nome": "Banheiro Chalesco Cat Toillete Vermelho",
+      "img": "../assets/img/gatos-2-3.png",
+      "preco": 166.50
+    },
+    {
+      "tipo": "gatos-amam",
+      "id": 11,
+      "nome": "Ração Seca Golden para Gatos Adultos",
+      "img": "../assets/img/gatos-2-4.png",
+      "preco": 149.31
+    },
+    {
+      "tipo": "cachorros-adoram",
+      "id": 12,
+      "nome": "Petisco Pedigree Dentastix Cuidado Oral",
+      "img": "../assets/img/caes-2-1.png",
+      "preco": 17.54
+    },
+    {
+      "tipo": "cachorros-adoram",
+      "id": 13,
+      "nome": "Colchonete Pickorruchos Xadrez",
+      "img": "../assets/img/caes-2-2.png",
+      "preco": 143.91
+    },
+    {
+      "tipo": "cachorros-adoram",
+      "id": 14,
+      "nome": "Guia e Peitoral American Pets",
+      "img": "../assets/img/caes-2-3.png",
+      "preco": 84.05
+    },
+    {
+      "tipo": "cachorros-adoram",
+      "id": 15,
+      "nome": "Ração Magnus Todo Dia Sabor Carne",
+      "img": "../assets/img/caes-2-4.png",
+      "preco": 181.71
+    },
+    {
+      "tipo": "brinq",
+      "id": 16,
+      "nome": "Brinquedo Chalesco Para Gatos",
+      "img": "../assets/img/brinq-gatos-1.png",
+      "preco": 29.99
+    },
+    {
+      "tipo": "brinq",
+      "id": 17,
+      "nome": "Brinquedo Furacão Pet Cat Box",
+      "img": "../assets/img/brinq-gatos-2.png",
+      "preco": 66.49
+    },
+    {
+      "tipo": "brinq",
+      "id": 18,
+      "nome": "Brinquedo Truqys Pets Cat Spin Verde",
+      "img": "../assets/img/brinq-gatos-3.png",
+      "preco": 89.99
+    },
+    {
+      "tipo": "brinq",
+      "id": 19,
+      "nome": "Brinquedo Petwi Pelúcia Peixe",
+      "img": "../assets/img/brinq-gatos-4.png",
+      "preco": 16.15
+    },
+    {
+      "tipo": "brinq",
+      "id": 20,
+      "nome": "Brinquedo KONG Puzzle Sway`n Play",
+      "img": "../assets/img/brinq-gatos-5.png",
+      "preco": 105.65
+    },
+    {
+      "tipo": "brinq",
+      "id": 21,
+      "nome": "Brinquedo Chalesco Túnel Fun",
+      "img": "../assets/img/brinq-gatos-6.png",
+      "preco": 108.89
+    },
+    {
+      "tipo": "brinq",
+      "id": 22,
+      "nome": "Brinquedo Odontopet Minhoca Infused",
+      "img": "../assets/img/brinq-gatos-7.png",
+      "preco": 17.89
+    },
+    {
+      "tipo": "brinq",
+      "id": 23,
+      "nome": "Brinquedo Ratinho Chiq para Gatos",
+      "img": "../assets/img/brinq-gatos-8.png",
+      "preco": 13.19
+    },
+    {
+      "tipo": "brinq",
+      "id": 24,
+      "nome": "Brinquedo Furacão Pet Dental Bone",
+      "img": "../assets/img/brinq-caes-1.png",
+      "preco": 9.81
+    },
+    {
+      "tipo": "brinq",
+      "id": 25,
+      "nome": "Brinquedo Chalesco Pelúcia Octopus",
+      "img": "../assets/img/brinq-caes-2.png",
+      "preco": 27.89
+    },
+    {
+      "tipo": "brinq",
+      "id": 26,
+      "nome": "Brinquedo Mordedor Escova Pet",
+      "img": "../assets/img/brinq-caes-3.png",
+      "preco": 28.98
+    },
+    {
+      "tipo": "brinq",
+      "id": 27,
+      "nome": "Brinquedo American Pets",
+      "img": "../assets/img/brinq-caes-4.png",
+      "preco": 49.40
+    },
+    {
+      "tipo": "brinq",
+      "id": 28,
+      "nome": "Brinquedo Buddy Toys Osso Flex",
+      "img": "../assets/img/brinq-caes-5.png",
+      "preco": 30.51
+    },
+    {
+      "tipo": "brinq",
+      "id": 29,
+      "nome": "Brinquedo KONG Puzzle Gyro",
+      "img": "../assets/img/brinq-caes-6.png",
+      "preco": 99.99
+    },
+    {
+      "tipo": "brinq",
+      "id": 30,
+      "nome": "Brinquedo de Vinil LCM Pintinho",
+      "img": "../assets/img/brinq-caes-7.png",
+      "preco": 15.29
+    },
+    {
+      "tipo": "brinq",
+      "id": 31,
+      "nome": "Brinquedo Chalesco Frisbee Totóys",
+      "img": "../assets/img/brinq-caes-8.png",
+      "preco": 49.40
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 32,
+      "nome": "Ração Guabi Natural Frango e Arroz",
+      "img": "../assets/img/racao-guabi.png",
+      "preco": 215.01
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 33,
+      "nome": "Ração GranPlus Frango e Arroz para Gatos",
+      "img": "../assets/img/alim-gatos-1.png",
+      "preco": 145.71
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 34,
+      "nome": "Ração Royal Canin Sachê Feline",
+      "img": "../assets/img/alim-gatos-2.png",
+      "preco": 8.99
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 35,
+      "nome": "Ração Úmida Whiskas Sachê Frango",
+      "img": "../assets/img/alim-gatos-3.png",
+      "preco": 2.60
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 36,
+      "nome": "Ração Seca PremieR Pet Golden Gatos",
+      "img": "../assets/img/gatos-2-4.png",
+      "preco": 131.31
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 37,
+      "nome": "Ração Nestlé Purina Friskies Sach",
+      "img": "../assets/img/gatos-1.png",
+      "preco": 2.79
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 38,
+      "nome": "Ração Hercosul Biofresh para Gatose",
+      "img": "../assets/img/alim-gatos-4.png",
+      "preco": 288.81
+    },
+    {
+      "tipo": "alim-gatos",
+      "id": 39,
+      "nome": "Petisco Whiskas Antibola de Pelo",
+      "img": "../assets/img/gatos-2-1.png",
+      "preco": 9.62
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 40,
+      "nome": "Ração GranPlus para cães adultos",
+      "img": "../assets/img/caes-1.png",
+      "preco": 139.9
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 41,
+      "nome": "Ração Úmida GranPlus Gourmet",
+      "img": "../assets/img/caes-3.png",
+      "preco": 2.99
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 42,
+      "nome": "Petisco Pedigree Dentastix Cuidado Oral",
+      "img": "../assets/img/caes-2-1.png",
+      "preco": 17.54
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 43,
+      "nome": "Ração Magnus Todo Dia Sabor Carne",
+      "img": "../assets/img/caes-2-4.png",
+      "preco": 181.71
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 44,
+      "nome": "Ração Seca PremieR Pet Goldens",
+      "img": "../assets/img/alim-caes-1.png",
+      "preco": 125.01
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 45,
+      "nome": "Ração Úmida Pedigree Sachê Cordeiro",
+      "img": "../assets/img/alim-caes-2.png",
+      "preco": 2.60
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 46,
+      "nome": "Ração Úmida Pet Delícia Natural",
+      "img": "../assets/img/alim-caes-3.png",
+      "preco": 9.44
+    },
+    {
+      "tipo": "alim-caes",
+      "id": 47,
+      "nome": "Ração Premier Ambientes Internos",
+      "img": "../assets/img/alim-caes-4.png",
+      "preco": 207.81
+    },
+    {
+      "tipo": "div-gatos",
+      "id": 48,
+      "nome": "Colar Elástico Gloss para Gatos",
+      "img": "../assets/img/div-gatos-2.png",
+      "preco": 22.41
+    },
+    {
+      "tipo": "div-gatos",
+      "id": 49,
+      "nome": "ranulado Ipet Woods de Madeira",
+      "img": "../assets/img/div-gatos-1.png",
+      "preco": 59.31
+    },
+    {
+      "tipo": "div-gatos",
+      "id": 50,
+      "nome": "Banheiro Chalesco Cat Toillete Vermelho",
+      "img": "../assets/img/gatos-2-3.png",
+      "preco": 166.50
+    },
+    {
+      "tipo": "div-gatos",
+      "id": 51,
+      "nome": "Comedouro CatMyPet Snack Cat Vermelho",
+      "img": "../assets/img/gatos-2-2.png",
+      "preco": 116.99
+    },
+    {
+      "tipo": "div-caes",
+      "id": 52,
+      "nome": "Guia e Peitoral American Pets",
+      "img": "../assets/img/caes-2-3.png",
+      "preco": 84.05
+    },
+    {
+      "tipo": "div-caes",
+      "id": 53,
+      "nome": "Tapete Higiênico Me.Au Pet para Cães",
+      "img": "../assets/img/div-caes-1.png",
+      "preco": 64.90
+    },
+    {
+      "tipo": "div-caes",
+      "id": 54,
+      "nome": "Comedouro e Bebedouro Duplo em Inox ",
+      "img": "../assets/img/div-caes-2.png",
+      "preco": 49.40
+    },
+    {
+      "tipo": "div-caes",
+      "id": 55,
+      "nome": "Colchonete Pickorruchos Xadrez",
+      "img": "../assets/img/caes-2-2.png",
+      "preco": 143.91
+    },
+    {
+      "tipo": "roupinhas",
+      "id": 56,
+      "nome": "Casaco Jingles Moletom Salmão",
+      "img": "../assets/img/gatos-5.png",
+      "preco": 92.99
+    },
+    {
+      "tipo": "roupinhas",
+      "id": 57,
+      "nome": "Bandana Pickorruchos Azul Xadrez",
+      "img": "../assets/img/out-1.png",
+      "preco": 10.71
+    },
+    {
+      "tipo": "roupinhas",
+      "id": 54,
+      "nome": "Moletom Zooz Pets Charlie Snoopy",
+      "img": "../assets/img/out-2.png",
+      "preco": 89.91
+    },
+    {
+      "tipo": "roupinhas",
+      "id": 55,
+      "nome": "Capa de Chuva Elegance Cores Variadas",
+      "img": "../assets/img/out-3.png",
+      "preco": 69.20
+    }
+  ]
+}

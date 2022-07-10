@@ -1,0 +1,67 @@
+<div class="banners">
+  <div>
+          <picture>
+                  <source media="(max-width:768px)" srcset="../../assets/img/banner-diversas-pq.png">
+                  <img src="../../assets/img/banner-diversas.png" alt="Coleção outono/Inverno Pet Village"
+                      class="d-block w-100 img-fluid">
+              </picture>
+  </div>
+</div>
+
+<main id="main">
+  <div class="produtos">
+    <h1>Diversos para Gatos</h1>
+
+    <div class="row">
+      <div class="col-md-6 col-lg-3" *ngFor="let oferta of ofertasGatos">
+        <div class="grid">
+          <div class="card ">
+            <div class="card-img">
+              <img  [src]="oferta.img" [alt]="oferta.nome">
+            </div>
+            <h2>{{ oferta.nome }}</h2>
+            <p class="preco">{{ oferta.preco }}</p>
+            <button class="btn btn-comprar" [value]="oferta.nome">Comprar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h1>Diversos para Cachorros</h1>
+
+    <div class="row">
+      <div class="col-md-6 col-lg-3" *ngFor="let oferta of ofertasCaes">
+        <div class="grid">
+          <div class="card ">
+            <div class="card-img">
+              <img  [src]="oferta.img" [alt]="oferta.nome">
+            </div>
+            <h2>{{ oferta.nome }}</h2>
+            <p class="preco">{{ oferta.preco }}</p>
+            <button class="btn btn-comprar" [value]="oferta.nome">Comprar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+          <h1>
+              Coleção Outono Village
+          </h1>
+
+          <div class="row">
+            <div class="mcol-md-6 col-lg-3" *ngFor="let oferta of ofertasOut">
+              <div class="grid">
+                <div class="card ">
+                  <div class="card-img">
+                    <img  [src]="oferta.img" [alt]="oferta.nome">
+                  </div>
+                  <h2>{{ oferta.nome }}</h2>
+                  <p class="preco">{{ oferta.preco }}</p>
+                  <button class="btn btn-comprar" [value]="oferta.nome">Comprar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+  </div>
+
+</main>
